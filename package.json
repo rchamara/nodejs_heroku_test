@@ -4,7 +4,7 @@
   "description": "",
   "main": "publicurl.js",
   "scripts": {
-    "start": "node publiccurl.js",
+    "start": "node publicurl.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
